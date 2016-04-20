@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*.py[co]
+*.swp
+Thumbs.db
+*~
+*.[oa]
+__pycache__
+.Rhistory
+.RData
+.Rapp.history
